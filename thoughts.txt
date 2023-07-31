@@ -1,0 +1,18 @@
+Most people I know in the data science industry -and elsewhere- either ignore LLMs altogether or sporadically use them as gadgets. 
+I suspect various reasons, among them an aversion to changing habits and challenging new workflows.
+
+To me, questions about the "meaning" or the "future" of AI for humanity are irrelevant at this point. 
+Generative AI is a superb tool that is an EXCELLENT complement to the human brain (it is, after all, a mere extension of some of its most basic functions).
+Mastering what I call the "generative dialogue" involves several important steps.
+
+1. What generation is and is not
+
+Generation probalistically completes the next step of a given task in a given context. 
+Context comes from both the provider (pre-prompt) and the user (prompt, uploaded files).
+A probabilistic model cannot in any circumstance come close to what we know as knowledge or, more importantly, judgement.
+Steven Wolfram is quite good at explaining why associating procedural and generative AI in the future can be part of the solution.
+In any case, even though it is an unpopular opinion in the well spread analytic philosophy tradition, I do not believe that any form of judgement
+can ever be expected from a system, however complex, that has no biological component. Were it to change, however... Hard to say. 
+
+2. Understanding both provider and user role in the dialogue
+
