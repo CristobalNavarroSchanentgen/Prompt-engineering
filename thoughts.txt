@@ -16,3 +16,21 @@ can ever be expected from a system, however complex, that has no biological comp
 
 2. Understanding both provider and user role in the dialogue
 
+The provider (OpenAI, Google, Meta...) is responsible for the general design of the model and its main pre-prompts.
+Provider orientations command the opportunity of using a model for a given task. 
+Using gpt-4 to trick teachers into grading its essays is funny but useless. Using gpt-4 to ask existential question is plain stupidity.
+Given the design and recent beta features, it appears clearly that gpt-4 is currently best suited for automation of text edition (draft an email
+from notes, an executive summury, an add...) and, more importantly, programming (see python interpreter and file management plugins).
+Interestingly, it is quite proficient at idea generation, which will be discussed later.
+
+The user (you and me) must first understand the relevance of the model they intend to use depending on provider specifications.
+With that information in mind, the user should swiftly reckon at which milestones in their workflow the model shall intervene.
+Gpt-4 might not give the user up-to-date api specifications, however it's python interpreter can considerably reduce data preprocessing script design. 
+The user must also be well aware of their own areas of expertise and limits. An international affairs specialist wanting to write a sentiment analysis script about South East Asia will will know precisely what to ask the generative model (assuming that he is also a programmer). However the lack of knowledge in the field of application of a programming project is a major barrier to the use of generative models. They will not help with right or wrong, they will not help with better understanding of a topic. For that reason I have come accross two kinds of inneficient users who fail to see the wonderful opportunities offered by generative model : users with a solid programming/ data science background but very limited other interests, who lack any creative impulse, and those with different expertise who are paralysed by their complete ignorence of programming and computer science in general. An proficient user will be a jack of all trades. 
+
+3. 
+
+
+
+
+
