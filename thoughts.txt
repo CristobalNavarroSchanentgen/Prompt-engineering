@@ -26,9 +26,18 @@ Interestingly, it is quite proficient at idea generation, which will be discusse
 The user (you and me) must first understand the relevance of the model they intend to use depending on provider specifications.
 With that information in mind, the user should swiftly reckon at which milestones in their workflow the model shall intervene.
 Gpt-4 might not give the user up-to-date api specifications, however it's python interpreter can considerably reduce data preprocessing script design. 
-The user must also be well aware of their own areas of expertise and limits. An international affairs specialist wanting to write a sentiment analysis script about South East Asia will will know precisely what to ask the generative model (assuming that he is also a programmer). However the lack of knowledge in the field of application of a programming project is a major barrier to the use of generative models. They will not help with right or wrong, they will not help with better understanding of a topic. For that reason I have come accross two kinds of inneficient users who fail to see the wonderful opportunities offered by generative model : users with a solid programming/ data science background but very limited other interests, who lack any creative impulse, and those with different expertise who are paralysed by their complete ignorence of programming and computer science in general. An proficient user will be a jack of all trades. 
+The user must also be well aware of their own areas of expertise and limits. 
+An international affairs specialist wanting to write a sentiment analysis script about South East Asia will will know precisely what to ask the generative model (assuming that he is also a programmer). 
+However the lack of knowledge in the field of application of a programming project is a major barrier to the use of generative models. 
+They will not help with right or wrong, they will not help with better understanding of a topic. 
+For that reason I have come accross two kinds of inneficient users who fail to see the wonderful opportunities offered by generative model : 
+users with a solid programming/ data science background but very limited other interests, who lack any creative impulse, 
+and those with different expertise who are paralysed by their complete ignorence of programming and computer science in general. 
+A proficient user will be a jack of all trades. 
 
-3. 
+3. In the dialogue their is only the user's intelligence is at play, or rather what can be communicated of that intelligence
+
+
 
 
 
