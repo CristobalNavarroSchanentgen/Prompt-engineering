@@ -37,6 +37,8 @@ A proficient user will be a jack of all trades.
 
 3. In the dialogue their is only the user's intelligence is at play, or rather what can be communicated of that intelligence
 
+4. Generative AI abstract a higher level language with no other libraries than the user's brain
+
 
 
 
