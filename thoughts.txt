@@ -5,6 +5,7 @@ To me, questions about the "meaning" or the "future" of AI for humanity are irre
 Generative AI is a superb tool that is an EXCELLENT complement to the human brain (it is, after all, a mere extension of some of its most basic functions).
 Mastering what I call the "generative dialogue" involves several important steps.
 
+
 1. What generation is and is not
 
 Generation probalistically completes the next step of a given task in a given context. 
@@ -13,6 +14,7 @@ A probabilistic model cannot in any circumstance come close to what we know as k
 Steven Wolfram is quite good at explaining why associating procedural and generative AI in the future can be part of the solution.
 In any case, even though it is an unpopular opinion in the well spread analytic philosophy tradition, I do not believe that any form of judgement
 can ever be expected from a system, however complex, that has no biological component. Were it to change, however... Hard to say. 
+
 
 2. Understanding both provider and user role in the dialogue
 
@@ -35,9 +37,37 @@ users with a solid programming/ data science background but very limited other i
 and those with different expertise who are paralysed by their complete ignorence of programming and computer science in general. 
 A proficient user will be a jack of all trades. 
 
+
 3. In the dialogue their is only the user's intelligence is at play, or rather what can be communicated of that intelligence
 
-4. Generative AI abstract a higher level language with no other libraries than the user's brain
+Being smart and knowledgeable is not enough. In the end, the more verbally skilled the user is, the more productive the generative dialogue. 
+Imagine that you have a very good knowledge of both subject and style of a production you want a generative AI to do for you. You will most 
+likely need to do some simple prompt fine tuning, which requires precise verbal skills. If you spot an inapropriate tone, you need to be able
+to express whether it is 'overly familiar' or 'too grandiose', or 'not neutral enough...'. If you spot a reasoning error, say in a programming 
+task, you will need to describe the error in terms that the model can make use of. 
+
+Paradoxically, it would be a dramatic mistake not to invest in reading, writting and exercising one's verbal skills at the age of generative
+AI. If you have troubles having a model do what you expect of it, then chances are that your thoughts are not structured enough and your 
+instructions not precise enough. 
+
+
+4. Generative AIs abstract a higher level language with no other libraries than the user's brain
+
+I remember reading when I was just back to programming about the importance to understand the underlying concepts in addition to specific
+language implementations, so that one could easily learn and work in a new language if needed. It is even more true now, and I am convinced
+that generative AI is destined to become a higher level language. You can indeed abstract language specifications if you know how to design
+a monte-carlo simulation, with proper instructions, a generative model can implement it indifferently in python, java or go. 
+
+Your proficiency with that new higher level language can be thought in terms of metaphorical libraries. If you know the theory behind monte-carlo
+simulations AND important programming paradigms, the you can program with the higher level language (the generative model) all sorts of 
+implementations. One could say that you have in your brain the higher level language "monte-carlo" library.
+
+I believe that the understanding of programming paradigns is still paramount. If the generative model introduces a language are library that
+is new to you, you need to be able to ask the right questions about it so that you can remain in full control of your project. Why is this
+library necessary? Why not use that other one you are used to? How do the objects differ, and how will it impact your code's efficiency? Is
+their a more efficient way to implement that solution? Sometimes you can even (especially with gpt-4 python interpreter) come across situations
+where the model will make basic project design mistakes, such as not refactoring when needed or implementing overly complicated solutions, and
+you need to pay close attention and be able to intervene at the right time. 
 
 
 
