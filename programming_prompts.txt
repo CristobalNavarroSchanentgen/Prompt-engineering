@@ -1,0 +1,14 @@
+I am going to provide you with different python snippets. After each input, 
+you will ask "send next context snippet or, if finished, ask your question". 
+
+ 
+I want a visualization script in language X using lybrary Y and api Z to retrieve and display in *specific demand* shape data relative to... 
+
+ 
+
+I am building a python solution to the specific problem X. What are the pros and cons of using library Y instead of library Z 
+for that specific problem?  
+
+ 
+
+I am working on problem X that is structured as follows: Y structure. How could y refactor it to improve Z metric/ Z use?  
