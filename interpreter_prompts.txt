@@ -1,0 +1,7 @@
+
+
+I am going to provide two datasets. One will be addressed as input, the other as output. I want you to preprocess the input dataset 
+to structure it like the output. After your work, you will provide me with both the processed input and the script you used (in a .py format). 
+If you have any questions or choices to make, let me know in the process.  
+
+Additionnal context: *might be useful to provide the interpreteur with context information about your datasets straight away* 
